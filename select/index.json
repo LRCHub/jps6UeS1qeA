@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Nevereverland",
+  "base_artist": "ナノ",
+  "createdAt": "2025-12-04T15:13:19.959099Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nevereverland",
+      "artist": "nano",
+      "has_synced": true,
+      "path": "select/01_Nevereverland_nano.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nevereverland",
+      "artist": "NANO",
+      "has_synced": true,
+      "path": "select/02_Nevereverland_NANO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nevereverland",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/03_Nevereverland_ナノ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nevereverland",
+      "artist": "nano",
+      "has_synced": true,
+      "path": "select/04_Nevereverland_nano.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nevereverland",
+      "artist": "Nanoナノ",
+      "has_synced": true,
+      "path": "select/05_Nevereverland_Nanoナノ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nevereverland (Live at Studio Coast, Shinkiba 2013/3/16)",
+      "artist": "NANO",
+      "has_synced": true,
+      "path": "select/06_Nevereverland_(Live_at_Studio_Coast,_Shinkiba_2013_3_16)_NANO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nevereverland(DJ'TEKINA//SOMETHING Remix)",
+      "artist": "NANO",
+      "has_synced": true,
+      "path": "select/07_Nevereverland(DJ'TEKINA_SOMETHING_Remix)_NANO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "NEVEREVERLAND",
+      "artist": "Dom Vallie",
+      "has_synced": true,
+      "path": "select/08_NEVEREVERLAND_Dom_Vallie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nevereverland（Live at 新木場Studio Coast 2013/3/16)",
+      "artist": "NANO",
+      "has_synced": true,
+      "path": "select/09_Nevereverland(Live_at_新木場Studio_Coast_2013_3_16)_NANO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nevereverland",
+      "artist": "nano",
+      "has_synced": true,
+      "path": "select/10_Nevereverland_nano.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nevereverland",
+      "artist": "nano",
+      "has_synced": true,
+      "path": "select/11_Nevereverland_nano.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nevereverland (remix)",
+      "artist": "Nano",
+      "has_synced": true,
+      "path": "select/12_Nevereverland_(remix)_Nano.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nevereverland [DJ’TEKINA//SOMETHING Remix]",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/13_Nevereverland_[DJ’TEKINA_SOMETHING_Remix]_ナノ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nevereverland",
+      "artist": "ナノ",
+      "has_synced": false,
+      "path": "select/pl_01_Nevereverland_ナノ.txt"
+    }
+  ]
+}
